@@ -1,0 +1,5 @@
+npm install --legacy-peer-deps @react-three/fiber @react-three/drei maath react-tilt react-vertical-time
+line-component @emailjs/browser framer-motion react-router-dom -f
+
+
+npm install react-vertical-timeline-component @emailjs/browser framer-motion react-router-dom 
